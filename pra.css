@@ -1,0 +1,23 @@
+.text {
+    color: red;
+    text-align: center;
+    font-size: 50px;
+}
+.register {
+    text-align: center;
+    color: yellowgreen;
+}
+.table {
+    position: absolute;
+    left: 50%;
+}
+.figure {
+    border: 1px solid black;
+}
+.form-container {
+    border: 1px solid black;
+}
+.move {
+    position: absolute;
+    left: 100px;
+}
